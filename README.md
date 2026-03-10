@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kishan Kumar Thakur.<br><br>🚀 About Me<br><br>🎓 BSc CSIT Student<br>🚀 MERN Stack Developer | BSc CSIT  <br>💡  Full Stack Development  <br>🎨 UI/UX Designer (Figma)    <br>⚡ Always building & learning new tech<br>🔥 Passionate about building modern web applications<br>
+👋 Hi, I'm Kishan Kumar Thakur.<br><br>🚀 About Me<br><br>🎓 BSc CSIT Student<br>🚀 MERN Stack Developer | <br>💡  Full Stack Development  <br>🎨 UI/UX Designer (Figma)    <br>⚡ Always building & learning new tech<br>🔥 Passionate about building modern web applications<br>
 
 
 ## 🌐 Socials:
