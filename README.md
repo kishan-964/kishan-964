@@ -5,12 +5,21 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instgram&logo=Instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facbook&logo=Facebook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Profile&logo=Profile&label=&color=90EE90&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Profile logo"  />
-  
+  <a href="https://www.linkedin.com/in/Yhttps://www.linkedin.com/in/kishanthakur01/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+
+  <a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+
+  <a href="https://YOUR-PORTFOLIO-LINK.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=00C853&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
 </div>
 
 ###
